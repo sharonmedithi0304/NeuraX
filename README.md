@@ -12,7 +12,7 @@
 
 ## 1. Problem Understanding
 
-In a high-throughput, multi-stage line, quality, capacity and economics interact. A subtle defect at speed, a cycle-time imbalance, drift between batches, a changeover or a slow station can each cut throughput and margin.
+On a fast production line, quality, output, and profit are all connected — a problem in one affects the others. Even small issues like a hard-to-spot defect, an unbalanced work station, machine drift between batches, or a slow changeover can quietly reduce both production speed and profit.
 
 **Primary user:** a quality or process engineer. Today they can see that defects are rising, but they struggle to say *which* defect family, *where* on the product, *which* batch or process condition is associated with it, and *what it costs*, because the evidence sits in separate tools.
 
